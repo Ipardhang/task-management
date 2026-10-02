@@ -1,0 +1,17 @@
+com/taskmanager/backend/repository/TaskRepository.class
+com/taskmanager/backend/repository/UserRepository.class
+com/taskmanager/backend/config/WebSocketConfig.class
+com/taskmanager/backend/security/JwtAuthenticationFilter.class
+com/taskmanager/backend/service/TaskService.class
+com/taskmanager/backend/security/SecurityConfig.class
+com/taskmanager/backend/controller/HealthController.class
+com/taskmanager/backend/service/AuthService.class
+com/taskmanager/backend/dto/RegisterRequest.class
+com/taskmanager/backend/dto/LoginRequest.class
+com/taskmanager/backend/controller/TaskController.class
+com/taskmanager/backend/controller/AuthController.class
+com/taskmanager/backend/websocket/TaskWebSocketMessage.class
+com/taskmanager/backend/entity/User.class
+com/taskmanager/backend/security/JwtService.class
+com/taskmanager/backend/entity/Task.class
+com/taskmanager/backend/BackendApplication.class
